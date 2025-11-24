@@ -1,0 +1,9 @@
+{
+  "name": "HoloSpace: Gemini Solar System",
+  "description": "A 3D holographic Solar System explorer powered by Gemini AI, featuring hand-gesture control, real-time voice conversation, and advanced content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
